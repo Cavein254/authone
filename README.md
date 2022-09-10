@@ -39,4 +39,4 @@ npm run dev
 
 if you navigate to '<http://localhost:3000>` you should as below:
 
-![browser]('./imgs/screen1.png')
+![browser](./imgs/screen1.png)
