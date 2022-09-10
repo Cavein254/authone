@@ -1,4 +1,4 @@
-#User authentication with Auth0 Part One
+# User authentication with Auth0 Part One
 
 ## Technologies
 
@@ -37,6 +37,6 @@ Now in your terminal, run the following code:
 npm run dev
 ```
 
-if you navigate to 'http://localhost:3000` you should as below:
+if you navigate to '<http://localhost:3000>` you should as below:
 
-![browser]['./imgs.jpeg']
+![browser]('./imgs/screen1.png')
